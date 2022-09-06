@@ -1,0 +1,48 @@
+body{
+    background-image: linear-gradient(pink, #C8A2C8);
+    margin:0;
+    height:100%;
+}
+
+.button_image h1{
+    font-family: 'Meow Script',cursive;
+    text-align: center;
+}
+
+.btn_image{
+    top:-400px;
+    position: relative;
+
+}
+
+.btn{
+    font-family: 'Meow Script', cursive;
+    
+   
+    
+    
+    margin-left:60%;
+    
+    position: absolute;
+    padding:20px;
+    top: 300px;
+   
+
+    
+    
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: 60%;
+   
+    
+}
+
+img{
+    height: 600px;
+    width: 600px;
+    max-width: 100%;
+    max-height: auto;
+    object-fit: cover;
+}
